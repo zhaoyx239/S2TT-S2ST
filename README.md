@@ -10,4 +10,4 @@
 
 ### Metrics
 
-- COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/ Unbabel/COMET)]
+- COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/Unbabel/COMET)]
