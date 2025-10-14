@@ -11,3 +11,7 @@
 ### Metrics
 
 - COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/Unbabel/COMET)]
+
+### LLM
+
+- LLaMAX2: Your Translation-Enhanced Model also Performs Well in Reasoning(Qwen3-XPlus) [2025] [[Paper](https://arxiv.org/abs/2510.09189)] [[Code](https://github.com/CONE-MT/LLaMAX2.0)] [[Model](https://huggingface.co/collections/LLaMAX/ llamax20-68ad1c154fcf2623b75a068c)]
