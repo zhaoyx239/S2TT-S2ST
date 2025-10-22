@@ -8,6 +8,9 @@
 
 - StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning [2024] [Shaolei Zhang] [[Paper](https://arxiv.org/abs/2406.03049)] [[Code](https://github.com/ictnlp/StreamSpeech)] [[Demo](https://ictnlp.github.io/StreamSpeech-site/)]
 
+
+### Direct(e2e) Speech-to-Speech-Translation
+- Direct Speech-to-Speech Neural Machine Translation: A Survey [2024.10] [Mahendra Gupta] [[Paper]](http://arxiv.org/abs/2411.14453)
 ### Metrics
 
 - COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/Unbabel/COMET)]
