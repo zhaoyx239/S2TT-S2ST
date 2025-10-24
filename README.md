@@ -8,6 +8,8 @@
 
 - StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning [2024] [Shaolei Zhang] [[Paper](https://arxiv.org/abs/2406.03049)] [[Code](https://github.com/ictnlp/StreamSpeech)] [[Demo](https://ictnlp.github.io/StreamSpeech-site/)]
 
+- SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation [2025] [[Paper](https://arxiv.org/abs/2509.01200)] 
+
 
 ### Direct(e2e) Speech-to-Speech-Translation
 - Direct Speech-to-Speech Neural Machine Translation: A Survey [2024.10] [Mahendra Gupta] [[Paper]](http://arxiv.org/abs/2411.14453)
@@ -23,6 +25,7 @@
 
 - CoVoST 2 and Massively Multilingual Speech Translation [2020] [[Paper](https://arxiv.org/abs/2007.10310)] [[data](https://github.com/facebookresearch/covost)]
 
+- CVSS Corpus and Massively Multilingual Speech-to-Speech Translation [2022] [[Paper](http://arxiv.org/abs/2201.03713)] [[data](https://github.com/google-research-datasets/cvss)]
 
 ### LLM
 
