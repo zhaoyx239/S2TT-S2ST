@@ -18,6 +18,11 @@
 
 ### Metrics
 
+- Bleu: a Method for Automatic Evaluation of Machine Translation [2002] [[Paper](https://aclanthology.org/P02-1040.pdf)]
+
+- A Call for Clarity in Reporting BLEU Scores [2018] [[Paper](https://aclanthology.org/W18-6319/)] [[Code](https://github.com/mjpost/sacrebleu)]
+
+
 - COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/Unbabel/COMET)]
 
 
