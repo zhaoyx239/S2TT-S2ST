@@ -22,9 +22,11 @@
 
 - A Call for Clarity in Reporting BLEU Scores [2018] [[Paper](https://aclanthology.org/W18-6319/)] [[Code](https://github.com/mjpost/sacrebleu)]
 
-
 - COMET: A Neural Framework for MT Evaluation [2020] [[Paper](https://arxiv.org/abs/2009.09025)] [[Code](https://github.com/Unbabel/COMET)]
 
+- SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation [2020] [[Paper](https://www.aclweb.org/anthology/2020.emnlp-demos.19)] [[Code](https://github.com/facebookresearch/SimulEval)]
+
+- BLEURT: Learning Robust Metrics for Text Generation [2020] [[Paper](https://www.aclweb.org/anthology/2020.acl-main.704)] [[Code](https://github.com/google-research/bleurt)]
 
 ### Dataset
 
