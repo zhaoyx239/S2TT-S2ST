@@ -28,6 +28,8 @@
 
 - BLEURT: Learning Robust Metrics for Text Generation [2020] [[Paper](https://www.aclweb.org/anthology/2020.acl-main.704)] [[Code](https://github.com/google-research/bleurt)]
 
+- SpeechJudge: Towards Human-Level Judgment for Speech Naturalness [2025] [[Paper](http://arxiv.org/abs/2511.07931)] [[Demo](https://speechjudge.github.io)]
+
 ### Dataset
 
 - CoVoST 2 and Massively Multilingual Speech Translation [2020] [[Paper](https://arxiv.org/abs/2007.10310)] [[data](https://github.com/facebookresearch/covost)]
