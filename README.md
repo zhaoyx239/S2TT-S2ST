@@ -41,3 +41,11 @@
 - LLaMAX2: Your Translation-Enhanced Model also Performs Well in Reasoning(Qwen3-XPlus) [2025] [[Paper](https://arxiv.org/abs/2510.09189)] [[Code](https://github.com/CONE-MT/LLaMAX2.0)] [[Model](https://huggingface.co/collections/LLaMAX/llamax20-68ad1c154fcf2623b75a068c)]
 
 - Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice [2025] [[Paper](https://arxiv.org/abs/2507.17527)] [[Model](https://console.volcengine.com/ark/region:ark+cn-beijing/experience/voice?modelId=doubao-simul-s2s&tab=SI&type=SI)]
+
+### When to Translate?
+
+- Cross Attention Augmented Transducer Networks for Simultaneous Translation [2021] [[Paper](https://aclanthology.org/2021.emnlp-main.4/)] [[Code](https://github.com/danliu2/caat)]
+
+### Reinforcement Learning for Simultaneous Translation
+
+- SimulPL: Aligning Human Preferences in Simultaneous Machine Translation [2025] [[Paper](http://arxiv.org/abs/2502.00634)] [[Data](https://github.com/EurekaForNLP/SimulPL)]
