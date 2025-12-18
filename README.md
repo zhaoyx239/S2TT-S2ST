@@ -1,10 +1,10 @@
-### Text-to-Text-Translation 📄➡📄
+### Speech-to-Text-Translation 📄➡📄
 
 - ComSL: A Composite Speech-Language Model for End-to-End Speech-to-Text Translation [2023] [Chenyang Le] [[Paper](https://arxiv.org/abs/2305.14838)] [[Code](https://github.com/nethermanpro/ComSL)]
 
 
 
-### Text-to-Speech-Translation 📄➡🔊
+### Speech-to-Speech-Translation 📄➡🔊
 
 - StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning [2024] [Shaolei Zhang] [[Paper](https://arxiv.org/abs/2406.03049)] [[Code](https://github.com/ictnlp/StreamSpeech)] [[Demo](https://ictnlp.github.io/StreamSpeech-site/)]
 
