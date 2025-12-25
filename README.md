@@ -30,6 +30,8 @@
 
 - SpeechJudge: Towards Human-Level Judgment for Speech Naturalness [2025] [[Paper](http://arxiv.org/abs/2511.07931)] [[Demo](https://speechjudge.github.io)]
 
+- Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs [2025] [[Paper](http://arxiv.org/abs/2512.16378)] [[Code](https://github.com/sarapapi/hearing2translate)]
+
 ### Dataset
 
 - CoVoST 2 and Massively Multilingual Speech Translation [2020] [[Paper](https://arxiv.org/abs/2007.10310)] [[data](https://github.com/facebookresearch/covost)]
